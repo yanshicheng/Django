@@ -131,3 +131,6 @@ dmypy.json
 
 # settings.py
 settings.py
+
+# ide
+.idea/*
