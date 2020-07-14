@@ -129,8 +129,7 @@ dmypy.json
 .pyre/
 
 
-# settings.py
-settings.py
+
 
 # ide
 .idea/*
